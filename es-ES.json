@@ -1072,7 +1072,7 @@
         "infected4dsc": "La infección está propagándose a otros miembros, y el miembro infectado está en proceso de necrosis. La sepsis se está asentando. Se necesita tratamiento de emergencia.",
         "sepsis1dsc": "Una infección generalizada está causando que tu cuerpo reaccione de forma desregulada. Te sientes confundido, con una tensión arterial reducida y con fiebre. Letal si no se aplica tratamiento.",
         "sepsis2dsc": "Aumento de la frecuencia cardíaca, disminución de la presión arterial, aturdimiento y fiebre alta. Hay indicios de disfunción orgánica. Es probable que pronto entres en shock séptico.",
-        "sepsis3dsc": "<i>Como no pudiste detenerte ante la Muerte, la Muerte tuvo la amabilidad de detenerse ante ti.</i> Colapso circulatorio inminente.",
+        "sepsis3dsc": "<i>Como no pudiste detenerte ante la Muerte, la Muerte tuvo la amabilidad de detenerse para recogerte.</i> Colapso circulatorio inminente.",
         "concussiondsc": "Has quedado inconsciente por la baja vitalidad de la cabeza - despertarás cuando se cure.",
         "unconsciousdsc": "No puedes responder a ningún estímulo externo. Estás noqueado.",
         "incapacitateddsc": "No puedes levantarte o pensar. Apenas sientes algo.",
